@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "product 1",
+      "description": "Gaming Laptop",
+      "price": 100,
+      "inStock": false
+    },
+    {
+      "name": "Logitech combo touch",
+      "description": "bolados logitech",
+      "price": "15",
+      "id": 2
+    }
+  ]
+}

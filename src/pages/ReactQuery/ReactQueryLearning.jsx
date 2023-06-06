@@ -1,6 +1,8 @@
 import React from "react";
-import ProductsForm from "../components/ReactQueryLearning/ProductsForm";
-import Products from "../components/ReactQueryLearning/Products";
+
+// Components
+import Products from "../../components/ReactQueryLearning/Products";
+import ProductsForm from "../../components/ReactQueryLearning/ProductsForm";
 
 export default function ReactQueryLearning() {
   return (

@@ -7,7 +7,7 @@ export default function Navbar() {
       <div className="flex gap-3">
         <Link to="/">Home</Link>
         <Link to="/about">About</Link>
-        <Link to="/react-query">React Query</Link>
+        <Link to="/react-query/react-query">React Query</Link>
       </div>
     </nav>
   );

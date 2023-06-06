@@ -38,6 +38,7 @@ export default function Products() {
       inStock: checkedTarget,
     });
   };
+
   if (isLoading) return <div>Loading...</div>;
   else if (isError) return <div>Error: {error.message}</div>;
 

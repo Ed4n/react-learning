@@ -1,0 +1,27 @@
+{
+  "valorant": [
+    {
+     "id": 1,
+      "name": "Jett",
+      "description": "Jett is an agile agent who bursts into battle with her Cloudburst and Updraft as she glides through the fight. A balanced duelist, Jett excels at engaging enemies and taking fights on her own terms. She runs circles around every skirmish, cutting enemies up before they even know what hit them."
+    },
+
+    {
+      "id": 2,
+      "name": "Raze",
+      "description": "Raze is an aggr,essive duelist agent who excels in flushing enemies out of entrenched positions and clearing tight spaces with a generous dose of 'boom'. Her explosive arsenal provides the team with valuable tools for flushing enemies out of position, clearing out tight spaces, and dealing massive amounts of damage in a short period of time."
+    },
+
+    {
+      "id": 3,
+      "name": "Breach",
+      "description": "Breach is a brawling sentinel agent who specializes in crowd control and engaging enemies with a stunning repertoire of abilities. He is a brawling sentinel who specializes in crowd control and engaging enemies with a stunning repertoire of abilities. Breach is a brawling sentinel who specializes in crowd control and engaging enemies with a stunning repertoire of abilities."
+    },
+
+    {
+      "id": 4,
+      "name": "Sova",
+      "description": "Sova is a recon initiator agent who provides team intel with his Recon Bolt and drones, while also providing damage with his Shock Bolt and Owl Drone. Sova is a recon initiator agent who provides team intel with his Recon Bolt and drones, while also providing damage with his Shock Bolt and Owl Drone. Sova is a recon initiator agent who provides team intel with his Recon Bolt and drones, while also providing damage with his Shock Bolt and Owl Drone."
+    }
+  ]
+}
