@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "product 1",
+      "description": "Gaming Laptop",
+      "price": 100,
+      "inStock": true
+    },
+    {
+      "name": "product2",
+      "description": "adsfasfds",
+      "price": "1345",
+      "id": 2,
+      "inStock": false
+    },
+    {
+      "name": "product 3",
+      "description": "asdfadsf",
+      "price": "123",
+      "id": 3,
+      "inStock": false
+    } 
+  ]
+}
