@@ -20,10 +20,15 @@ export default function ReactQueryPractice() {
   if (isLoading) return <div>Loading...</div>;
   else if (isError) return <div>Error: {error.message}</div>;
 
-  return (
-    <div>
-      <AddAgent />
-      <ListAllAgents />
+  return agents.map((agents) => (
+    <div key={agents.id}>
+      <div>
+        <div className="w-[100px] h-[100px] rounded-full overflow-hidden">
+          <img className=" object-cover" src={agents.img} alt="" />
+        </div>
+
+        <div>agent name: {agents.name}</div>
+      </div>
     </div>
-  );
+  ));
 }

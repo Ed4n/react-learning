@@ -8,9 +8,20 @@ const agentsApi = axios.create({
 export const getAgents = async () => {
     try {
         const response = await agentsApi.get("/")
-        console.log(response.data)
+
         return response.data
 
+    }
+    catch (error) {
+        console.log(error)
+    }
+}
+
+// POST AGENTS //
+export const postAgents = async (newAgent) => {
+    try {
+        const response = await agentsApi.post("/", newAgent)
+        return response
     }
     catch (error) {
         console.log(error)
